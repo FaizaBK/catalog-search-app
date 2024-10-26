@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CatalogSearchApp
 
 ## Overview
@@ -108,3 +109,6 @@ The project includes the following dependencies:
 
 ## IDE Setup
 This project was created using IntelliJ IDEA. You can import the project as a Maven project and start working with the various components directly in the IDE.
+=======
+# catalog-search-app
+>>>>>>> ac46440c924af608297a7e2f95ccb35ca31c9951
