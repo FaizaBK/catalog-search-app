@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/FaizaBK/catalogsearchapp.git
+git clone https://github.com/FaizaBK/catalog-search-app.git
 cd catalogsearchapp
 ```
 
